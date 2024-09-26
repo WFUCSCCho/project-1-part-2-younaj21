@@ -1,25 +1,34 @@
+insert murphjr01-2015-NYA
+             insert menchke01-2005-TEX
 
-insert 111
-             insert 23
-
-insert 99
-insert         4
+insert nelsoch01-2012-COL
+insert         puigya01-2015-LAN
 
 isEmpty
 
-    insert     111
+    insert     martica02-1995-CAL
 
 print
 
 
-search 9
+search colonba01-2015-NYN
 
-remove 23
+remove menchke01-2005-TEX
 
-remove 4
-remove 999999
+remove nelsoch01-2012-COL
+remove blaloha01-2010-TBA
 isEmptyasfh
 print
 
-insert 123
+insert jeterde01-2010-NYA
+print
+
+insert tatisfe01-2010-NYN
+
+insert                                       canoro01-2011-NYA
+
+remove martica02-1995-CAL
+
+insert colonba01-2015-NYN
+
 print
